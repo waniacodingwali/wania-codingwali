@@ -1,0 +1,7 @@
+{
+  "name": "SubGen AI - Professional Video Subtitle Studio",
+  "description": "An AI-powered tool to automatically generate, edit, and style subtitles for videos using Gemini's multi-modal capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
